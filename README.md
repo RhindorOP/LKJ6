@@ -1,24 +1,7 @@
-# lkj6
+# Lee Kang-Jin 6
 
-## Project setup
-```
-yarn install
-```
+Hey there! This is my attempt at translating Lee Kang Jin 6. Please feel free to contact me if you would like to help with the translations or anything else through reddit, [u/RhindorOP](https://www.reddit.com/user/RhindorOP).
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Website Link
+[rhindorop.github.io/LKJ6](https://rhindorop.github.io/LKJ6/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
